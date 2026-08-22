@@ -35,20 +35,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[Credit Card Fraud Detection](https://github.com/BikramAgrawal/Credit-Card-Fraud-Detection)** | ML classifier for spotting fraudulent transactions on heavily imbalanced data | Python, scikit-learn, pandas |
-| **[Hotword Detection](https://github.com/BikramAgrawal/Hotword_detection)** | Custom wake-word engine that listens for a trigger phrase and fires an action | Python, audio processing |
-| **[Microservices DevOps](https://github.com/BikramAgrawal/microservices-devops)** | Containerised microservice setup with a full build-and-deploy pipeline | Python, Docker, CI/CD |
-| **[Docker Flask App](https://github.com/BikramAgrawal/Docker-Flask-App)** | Flask service packaged into a reproducible Docker image | Python, Flask, Docker |
-| **[Covid-19 Analysis](https://github.com/BikramAgrawal/Covid-19-Project)** | Exploratory data analysis and visualisation of pandemic trends | Jupyter, pandas, matplotlib |
-| **[Crypto App](https://github.com/BikramAgrawal/crypto-app)** | Web app for tracking live cryptocurrency prices and market data | JavaScript, REST APIs |
-| **[Bluetooth Integration](https://github.com/BikramAgrawal/bluetooth_integration)** | Python module for discovering and talking to Bluetooth devices | Python |
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages:**
@@ -103,15 +89,15 @@ React & TypeScript · Flutter & Mobile Apps · Node.js & REST APIs · Prisma & P
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3><strong>Oᴠᴇʀᴠɪᴇᴡ</strong></h3>
+      <h3><strong>Pᴜʟʟ Rᴇǫᴜᴇsᴛs</strong></h3>
       <a href="https://github.com/BikramAgrawal">
-        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=BikramAgrawal&count_private=true&show_icons=true&rank_icon=github&hide=stars,issues&show=prs_merged,prs_merged_percentage&bg_color=0,0d1117,0a1c33&title_color=2e9ef7&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=BikramAgrawal&count_private=true&show_icons=true&hide_rank=true&hide=stars,issues,commits,contribs&show=prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3><strong>Mᴀx Sᴛʀᴇᴀᴋ</strong></h3>
       <a href="https://github.com/BikramAgrawal">
-        <img align="center" src="https://streak-stats.demolab.com?user=BikramAgrawal&background=0,0d1117,0a1c33&border=0d1117&stroke=1f6feb&ring=2e9ef7&fire=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=2e9ef7&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak" />
+        <img align="center" src="https://streak-stats.demolab.com?user=BikramAgrawal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -119,7 +105,7 @@ React & TypeScript · Flutter & Mobile Apps · Node.js & REST APIs · Prisma & P
     <td width="50%" align="center">
       <h3><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
       <a href="https://github.com/BikramAgrawal">
-        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BikramAgrawal&layout=compact&langs_count=6&bg_color=0,0d1117,0a1c33&title_color=2e9ef7&text_color=ffffff&hide_border=true" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BikramAgrawal&layout=compact&langs_count=6&bg_color=0d1117&title_color=2e9ef7&text_color=ffffff&hide_border=true" alt="Top Languages" />
       </a>
     </td>
     <td width="50%" align="center">
