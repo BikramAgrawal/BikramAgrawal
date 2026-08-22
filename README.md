@@ -97,7 +97,7 @@ React & TypeScript · Flutter & Mobile Apps · Node.js & REST APIs · Prisma & P
     <td width="50%" align="center">
       <h3><strong>Mᴀx Sᴛʀᴇᴀᴋ</strong></h3>
       <a href="https://github.com/BikramAgrawal">
-        <img align="center" src="https://streak-stats.demolab.com?user=BikramAgrawal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=BikramAgrawal&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
