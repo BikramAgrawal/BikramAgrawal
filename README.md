@@ -26,11 +26,9 @@
 - 🏢 **Currently building SalesSphere ERP** — a multi-tenant SaaS ERP. Lead contributor on the web client and a core contributor on the Flutter app
 - ⚛️ **Frontend:** React 19, TypeScript, Vite, Tailwind CSS, Zustand, TanStack Query
 - 📱 **Mobile:** Flutter & Dart — shipped to real users
-- ⚙️ **Backend:** Node.js, Express 5, Prisma, PostgreSQL, BullMQ, JWT auth
+- ⚙️ **Backend:** Node.js, Express 5, Prisma, PostgreSQL
 - 🤖 **Also Python** for ML & data work — fraud detection, hotword detection, exploratory analysis
-- 🐳 **DevOps:** Docker, microservices, CI/CD pipelines
 - 🎓 **B.E. Computer Science** @ BMS Institute of Technology and Management (2022–2026)
-- 🌱 Currently learning **Kubernetes and cloud deployment**
 - 🤝 Open to **internships, collaborations, and open-source contributions**
 
 ---
