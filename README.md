@@ -89,13 +89,11 @@ React & TypeScript · Flutter & Mobile Apps · Node.js & REST APIs · Prisma & P
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3><strong>Pᴜʟʟ Rᴇǫᴜᴇsᴛs</strong></h3>
       <a href="https://github.com/BikramAgrawal">
-        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=BikramAgrawal&count_private=true&show_icons=true&hide_rank=true&hide=stars,issues,commits,contribs&show=prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=BikramAgrawal&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
-      <h3><strong>Mᴀx Sᴛʀᴇᴀᴋ</strong></h3>
       <a href="https://github.com/BikramAgrawal">
         <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=BikramAgrawal&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Streak" />
       </a>
@@ -103,13 +101,11 @@ React & TypeScript · Flutter & Mobile Apps · Node.js & REST APIs · Prisma & P
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
       <a href="https://github.com/BikramAgrawal">
-        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BikramAgrawal&layout=compact&langs_count=6&bg_color=0d1117&title_color=2e9ef7&text_color=ffffff&hide_border=true" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BikramAgrawal&layout=compact&langs_count=8&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
       </a>
     </td>
     <td width="50%" align="center">
-      <h3><strong>Cᴏᴅɪɴɢ Aᴄᴛɪᴠɪᴛʏ</strong></h3>
       <a href="https://github.com/BikramAgrawal">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BikramAgrawal&utcOffset=5.5&theme=github_dark" alt="Productive Time" />
       </a>
