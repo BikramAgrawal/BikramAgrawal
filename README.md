@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Python+%7C+Machine+Learning+%7C+DevOps;Building+ML+Models+%26+Shipping+Them;Docker+%C2%B7+Microservices+%C2%B7+CI%2FCD;Always+Learning+Something+New" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Flutter+%26+Dart+for+Mobile;Python+%C2%B7+Docker+%C2%B7+CI%2FCD;Building+Multi-Tenant+SaaS" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -22,12 +22,14 @@
 
 ### 🚀 About Me
 
-- 🐍 **Python developer** working across **machine learning** and **DevOps**
-- 🤖 **ML & Data:** fraud detection, audio hotword detection, exploratory data analysis with pandas & scikit-learn
-- 🐳 **DevOps:** Docker, microservices, containerised Flask services, CI/CD pipelines
-- 🌐 Also comfortable on the web side — JavaScript, HTML/CSS, and a bit of C++ from the fundamentals days
+- 💻 **Full-stack developer** — React + TypeScript on the front, Node & Express + Prisma on the back, Flutter for mobile
+- 🏢 **Currently building SalesSphere ERP** — a multi-tenant SaaS ERP. Lead contributor on the web client and a core contributor on the Flutter app
+- ⚛️ **Frontend:** React 19, TypeScript, Vite, Tailwind CSS, Zustand, TanStack Query
+- 📱 **Mobile:** Flutter & Dart — shipped to real users
+- ⚙️ **Backend:** Node.js, Express 5, Prisma, PostgreSQL, BullMQ, JWT auth
+- 🤖 **Also Python** for ML & data work — fraud detection, hotword detection, exploratory analysis
+- 🐳 **DevOps:** Docker, microservices, CI/CD pipelines
 - 🎓 **B.E. Computer Science** @ BMS Institute of Technology and Management (2022–2026)
-- 🔭 Currently building **SalesSphere ERP**
 - 🌱 Currently learning **Kubernetes and cloud deployment**
 - 🤝 Open to **internships, collaborations, and open-source contributions**
 
@@ -50,21 +52,39 @@
 ### 🛠️ Tech Stack
 
 **Languages:**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Machine Learning & Data:**
+**Frontend:**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23433E38.svg?style=for-the-badge&logoColor=white)
+
+**Mobile:**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Backend & Databases:**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**ML & Data:**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**Backend & DevOps:**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**DevOps & Tools:**
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -74,33 +94,51 @@
 
 ### 💬 Ask Me About
 
-Machine Learning · Python · Docker & Containers · Microservices · Data Analysis · DevOps Fundamentals
+React & TypeScript · Flutter & Mobile Apps · Node.js & REST APIs · Prisma & PostgreSQL · Multi-Tenant SaaS · Python & Machine Learning · Docker & CI/CD
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs & Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</h2>
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=BikramAgrawal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
+    <td width="50%" align="center">
+      <h3><strong>Oᴠᴇʀᴠɪᴇᴡ</strong></h3>
+      <a href="https://github.com/BikramAgrawal">
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=BikramAgrawal&count_private=true&show_icons=true&rank_icon=github&hide=stars,issues&show=prs_merged,prs_merged_percentage&bg_color=0,0d1117,0a1c33&title_color=2e9ef7&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" />
+      </a>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BikramAgrawal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+    <td width="50%" align="center">
+      <h3><strong>Mᴀx Sᴛʀᴇᴀᴋ</strong></h3>
+      <a href="https://github.com/BikramAgrawal">
+        <img align="center" src="https://streak-stats.demolab.com?user=BikramAgrawal&background=0,0d1117,0a1c33&border=0d1117&stroke=1f6feb&ring=2e9ef7&fire=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=2e9ef7&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=BikramAgrawal&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+    <td width="50%" align="center">
+      <h3><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <a href="https://github.com/BikramAgrawal">
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BikramAgrawal&layout=compact&langs_count=6&bg_color=0,0d1117,0a1c33&title_color=2e9ef7&text_color=ffffff&hide_border=true" alt="Top Languages" />
+      </a>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BikramAgrawal&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
+    <td width="50%" align="center">
+      <h3><strong>Cᴏᴅɪɴɢ Aᴄᴛɪᴠɪᴛʏ</strong></h3>
+      <a href="https://github.com/BikramAgrawal">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BikramAgrawal&utcOffset=5.5&theme=github_dark" alt="Productive Time" />
+      </a>
     </td>
   </tr>
 </table>
 
+<h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aᴄᴛɪᴠɪᴛʏ</h3>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BikramAgrawal&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BikramAgrawal&bg_color=0d1117&color=58a6ff&line=2e9ef7&point=ffffff&area=true&area_color=2e9ef7&title_color=2e9ef7&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BikramAgrawal&theme=github_dark" alt="Profile Summary" />
 </p>
 
 ---
