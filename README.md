@@ -119,10 +119,6 @@ React & TypeScript · Flutter & Mobile Apps · Node.js & REST APIs · Prisma & P
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BikramAgrawal&bg_color=0d1117&color=58a6ff&line=2e9ef7&point=ffffff&area=true&area_color=2e9ef7&title_color=2e9ef7&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BikramAgrawal&theme=github_dark" alt="Profile Summary" />
-</p>
-
 ---
 
 ### 📫 Connect With Me
