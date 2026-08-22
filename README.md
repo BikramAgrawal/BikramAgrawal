@@ -84,13 +84,13 @@ React & TypeScript · Flutter & Mobile Apps · Node.js & REST APIs · Prisma & P
 
 ---
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs & Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</h2>
+<h2 align="left">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs & Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/BikramAgrawal">
-        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=BikramAgrawal&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=BikramAgrawal&card_width=495&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
@@ -102,18 +102,16 @@ React & TypeScript · Flutter & Mobile Apps · Node.js & REST APIs · Prisma & P
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/BikramAgrawal">
-        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BikramAgrawal&layout=compact&langs_count=8&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BikramAgrawal&card_width=495&layout=compact&langs_count=8&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/BikramAgrawal">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BikramAgrawal&utcOffset=5.5&theme=github_dark" alt="Productive Time" />
+        <img align="center" width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BikramAgrawal&utcOffset=5.5&theme=github_dark" alt="Productive Time" />
       </a>
     </td>
   </tr>
 </table>
-
-<h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aᴄᴛɪᴠɪᴛʏ</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BikramAgrawal&bg_color=0d1117&color=58a6ff&line=2e9ef7&point=ffffff&area=true&area_color=2e9ef7&title_color=2e9ef7&hide_border=true" alt="Contribution Graph" />
