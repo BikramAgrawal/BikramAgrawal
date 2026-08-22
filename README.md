@@ -26,7 +26,6 @@
 - 🏢 **Currently building SalesSphere ERP** — a multi-tenant SaaS ERP. Lead contributor on the web client and a core contributor on the Flutter app
 - ⚛️ **Frontend:** React 19, TypeScript, Vite, Tailwind CSS, Zustand, TanStack Query
 - 📱 **Mobile:** Flutter & Dart — shipped to real users
-- ⚙️ **Backend:** Node.js, Express 5, Prisma, PostgreSQL
 - 🤖 **Also Python** for ML & data work — fraud detection, hotword detection, exploratory analysis
 - 🎓 **B.E. Computer Science** @ BMS Institute of Technology and Management (2022–2026)
 - 🤝 Open to **internships, collaborations, and open-source contributions**
@@ -50,15 +49,6 @@
 **Mobile:**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Backend & Databases:**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **ML & Data:**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
