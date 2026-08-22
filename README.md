@@ -28,7 +28,7 @@
 - 📱 **Mobile:** Flutter & Dart — shipped to real users
 - 🤖 **Also Python** for ML & data work — fraud detection, hotword detection, exploratory analysis
 - 🎓 **B.E. Computer Science** @ BMS Institute of Technology and Management (2022–2026)
-- 🤝 Open to **internships, collaborations, and open-source contributions**
+- 🤝 Open to **full-time roles, freelance projects, collaborations, and open-source contributions**
 
 ---
 
