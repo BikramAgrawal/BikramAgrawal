@@ -23,7 +23,7 @@
 ### 🚀 About Me
 
 - 💻 **Full-stack developer** — React + TypeScript on the front, Node & Express + Prisma on the back, Flutter for mobile
-- 🏢 **Currently building SalesSphere ERP** — a multi-tenant SaaS ERP. Lead contributor on the web client and a core contributor on the Flutter app
+- 🏢 **Currently building SalesSphere ERP** — a multi-tenant SaaS ERP
 - ⚛️ **Frontend:** React 19, TypeScript, Vite, Tailwind CSS, Zustand, TanStack Query
 - 📱 **Mobile:** Flutter & Dart — shipped to real users
 - 🤖 **Also Python** for ML & data work — fraud detection, hotword detection, exploratory analysis
